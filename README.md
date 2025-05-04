@@ -54,7 +54,7 @@ The dashboard includes:
 
 ## Preview
 
-[app](https://zanjiran.shinyapps.io/sales/)
+![app](https://zanjiran.shinyapps.io/sales/)
 
 ## How to Run
 
