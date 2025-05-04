@@ -52,9 +52,10 @@ The dashboard includes:
 - DT
 - highcharter
 
-## Preview
+### Live App
 
-![app](https://zanjiran.shinyapps.io/sales/)
+🔗 [Click here to view the live dashboard](https://yourname.shinyapps.io/shiny-clinic-dashboard/)
+
 
 ## How to Run
 
