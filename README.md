@@ -54,7 +54,7 @@ The dashboard includes:
 
 ### Live App
 
-🔗 [Click here to view the live dashboard](https://Zanjiran.shinyapps.ioclinic/)
+🔗 [Click here to view the live dashboard](https://Zanjiran.shinyapps.io/clinic/)
 
 
 ## How to Run
